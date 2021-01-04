@@ -28,6 +28,6 @@
 * The "donor.csv" file must be extracted from the zip file "gw_data.zip" on the folder "data". 
 
 ## Report
-* Report describing each step of the study
+* Report.pdf: Report describing each step of the study
 
 
