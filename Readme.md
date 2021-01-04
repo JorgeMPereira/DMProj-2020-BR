@@ -24,7 +24,7 @@
 ### Excel file
 * ColumnAnalysis.xlsx: Initial Analysis of the variables to Keep/Drop
 
-## Dataet
+## Dataset
 
 * The "donor.csv" file must be extracted from the zip file "gw_data.zip" on the folder "data". 
 
