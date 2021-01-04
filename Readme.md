@@ -10,7 +10,7 @@
 
 ### Jupyter Notebooks
 * 1-Data Exploration.ipynb: Initial overview of the data
-* 2-Clustering_v1.0.ipynb: Preparation of the input data for the clustering algorithm
+* 2-Clustering.ipynb: Preparation of the input data for the clustering algorithm
 * 3-DataPreparation.ipynb: Initial Clustering attempt
 * 4-Profilling.ipynb: Initial Profiling to detect relevant variables
 * 5-ReClustering.ipynb: Clustering of the data using the variables chosen in the Profiling 
